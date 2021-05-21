@@ -1,4 +1,9 @@
-id: 886b813822fd4b4abe53850c5afa6e48
+id: 6b7f62b735804692a188e374d6937a66
 annotation_type: Citation
-revision: '00001'
-annotations: {}
+revision: '00011'
+annotations:
+  cb520fdfcde1454eb675faaa92d2d9cc:
+    span:
+      start: 973
+      end: 1053
+    is_verse: false
