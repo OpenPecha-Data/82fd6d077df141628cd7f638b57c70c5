@@ -1,6 +1,6 @@
 id: 8b93e51d868a4eddb2a23cbda013a6b4
 annotation_type: Sabche
-revision: '00016'
+revision: '00012'
 annotations:
   b13a6955e6a4465eaa8941175f6b9267:
     span:
@@ -14,31 +14,31 @@ annotations:
     span:
       start: 3953
       end: 3972
-  b37cc178f4034728932982751ce75858:
+  e07108c3eb7946efb870ebc531d64652:
     span:
       start: 11242
       end: 11857
-  b65405fcd18b4e30a3f4cf5c69c2e4bc:
+  b7d21336f9174f8a8cc4e1696a874a0e:
     span:
       start: 11911
       end: 11920
-  8e597ae377344deda7616d62f1c00a6a:
+  4120ad2504e04ee59182eec3935aa251:
     span:
       start: 12855
       end: 12885
-  f7ccf1e1f0ce466eb576aa9ce39c8fe0:
+  a3e8057520904266ba3d04dac66ac84e:
     span:
       start: 13708
       end: 13758
-  30cae883d2bc447aad40250abfd9efab:
+  fc39bd86e5844fa68cfa73cb7d10ded2:
     span:
       start: 14799
       end: 14818
-  171e23b65dda4185bd26b44f43f92c83:
+  817ee4d69f4849c0aab90eb25e3b51aa:
     span:
       start: 15534
       end: 15694
-  ebd38a1217794beeb2bb541e6cb0d7a7:
+  ae7f8cb32c114787afb4ad440d5145db:
     span:
       start: 31223
       end: 31258
@@ -46,11 +46,11 @@ annotations:
     span:
       start: 34210
       end: 34233
-  d4e70d947426466f91efbf1272807ab6:
+  76537d348cbb45fe864e6bd7f9ea8172:
     span:
       start: 36342
       end: 36369
-  1a4df18fc8da4f969637d12e9e311799:
+  fe25566292224637a6a45e2c226ecef2:
     span:
       start: 40607
       end: 40634
@@ -58,7 +58,7 @@ annotations:
     span:
       start: 41351
       end: 41418
-  1b41a61b58854610ad0f76db51cdfa7b:
+  0b2451dd6e4f472c8002ac94a7968b72:
     span:
       start: 45839
       end: 45866
@@ -66,7 +66,7 @@ annotations:
     span:
       start: 50188
       end: 50239
-  86823ef45de34587b35bd9c59c467652:
+  5354c319cf954aa196376bb8d3352043:
     span:
       start: 54217
       end: 54244
@@ -78,7 +78,7 @@ annotations:
     span:
       start: 66726
       end: 66753
-  573043cf09fa42a2a09e3a691f4d07db:
+  08dc03289c004e4da598df590fce9e72:
     span:
       start: 75748
       end: 75775

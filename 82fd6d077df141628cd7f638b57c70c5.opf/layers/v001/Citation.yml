@@ -2,16 +2,16 @@ id: 6b7f62b735804692a188e374d6937a66
 annotation_type: Citation
 revision: 00018
 annotations:
-  213a9a07af1845e097951ad2f4e6ebe7:
+  612ad8664de347e6b088456bd76e82a2:
     span:
       start: 973
       end: 1055
     is_verse: true
-  4498a08f24e14e59be62d84ca82136a4:
+  71808ee5c6dc4779bfa71b2c6a52746d:
     span:
-      start: 1533
+      start: 1322
       end: 1557
-    is_verse: false
+    is_verse: true
   39c911aa439f4eebb64dae5eb30d64d2:
     span:
       start: 3026
