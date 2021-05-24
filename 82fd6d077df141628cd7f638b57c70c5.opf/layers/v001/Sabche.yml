@@ -1,6 +1,6 @@
 id: 8b93e51d868a4eddb2a23cbda013a6b4
 annotation_type: Sabche
-revision: '00007'
+revision: '00012'
 annotations:
   b13a6955e6a4465eaa8941175f6b9267:
     span:
@@ -14,31 +14,31 @@ annotations:
     span:
       start: 3940
       end: 3959
-  2af45b8a992749b8983e17450ac12b29:
+  c6f093a027964d279e1493c1779228ed:
     span:
       start: 11229
       end: 11844
-  1ba2f7de024b4fa9b2f1b08a3635a167:
+  0ec2c911b3754a92a0b2cd2925d9c699:
     span:
       start: 11898
       end: 11907
-  802bccf21608446bb3ea5b0630b8a1eb:
+  953554578a9749de8b42d78e89859ddc:
     span:
       start: 12842
       end: 12872
-  49b1df1448944fc9bc6f767e0c356bfd:
+  8421f40568ea4020b1640fc443017339:
     span:
       start: 13695
       end: 13745
-  e9de22c2cf8b4416b2fd3df5f1ca3bd5:
+  28b02cc7a2d84f7ab8467a47bf56f395:
     span:
       start: 14786
       end: 14805
-  f95f38a8f06a42119fef08146372724e:
+  8b502176f54d4dd59c236d0e8e0cc924:
     span:
       start: 15521
       end: 15681
-  ec4abb59d5584fb9aabd21a520d0580e:
+  1d5259e0ac92496a8e25f6f132a369b5:
     span:
       start: 31210
       end: 31245
@@ -46,23 +46,39 @@ annotations:
     span:
       start: 34197
       end: 34220
-  08af410ec8ae4bda832e121870c9bd9c:
+  72c7c96f527e489e9f8e229449442a8a:
     span:
       start: 36329
       end: 36356
+  3f1ae2d9753340f6bbf42b81f09f83dc:
+    span:
+      start: 40594
+      end: 40621
   5bc88bff39c84e84a542327bed3ab436:
     span:
-      start: 41335
-      end: 41402
+      start: 41338
+      end: 41405
+  c8a75c4f94404285b9d5018c0aa7a8a9:
+    span:
+      start: 45826
+      end: 45853
   6b96ba1ae27d43af880862855101a6df:
     span:
-      start: 50170
-      end: 50221
+      start: 50175
+      end: 50226
+  ea8ed2d76a5747118410ce12f9935cdb:
+    span:
+      start: 54204
+      end: 54231
   6ed7ac4df8d94996807ba97f22568d7e:
     span:
-      start: 58347
-      end: 58374
+      start: 58354
+      end: 58381
   0637544bc0ad462c851a2616df6f1989:
     span:
-      start: 66705
-      end: 66732
+      start: 66713
+      end: 66740
+  8293740d9e9e48ceb813c8bceb351c5c:
+    span:
+      start: 75735
+      end: 75762
